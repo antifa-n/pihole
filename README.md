@@ -1,2 +1,42 @@
-# pihole
-Blocklist for nazi, fascist, white supremacy, white power, alt-right, anti-LGBT and right-wing populist websites
+# Pi-hole blocklists
+Here you will find Pi-hole (https://pi-hole.net) blocklists for nazi, fascist, alt-right, anti-LGBT, white nationalistic, supremacy and right-wing populistic websites.
+
+Do you have children or manage a school or a company and want to ensure no one in your network accesses such content? Here are the blocklists for you.
+
+***In total, +3500 domains listed.***
+
+In some rare cases, sites which hosts offensive content as well as other things are included, such as 4chan, 8chan and gab.
+
+***Please note that regular conservative sites are not blocked***
+
+# Using the blocklists
+0. Follow below instructions, as also depicted on below graphics.
+1. Go to your pi-hole admin interface
+2. Click on Settings
+3. Click the tab Blocklists
+4. Choose a blocklist.
+To only block nazi, fascist, alt-right, anti-LGBT, white nationalistic and supremacy content, enter in this url: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist.txt
+To block right-wing populistic content, also add this list: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt
+5. Click Save and Update
+6. Don't forget to update gravity on a regular basis
+
+![pi-hole](afablst.png)
+
+
+# Contributions
+Feel free to create a pull request.
+
+# Sources
+* https://en.wikipedia.org/wiki/List_of_white_nationalist_organizations
+* https://en.wikipedia.org/wiki/White_nationalism
+* http://www.sjsu.edu/faculty/Brent/190/hatelinks.html
+* https://www.counterextremism.com/content/us-white-supremacy-groups
+* https://en.wikipedia.org/wiki/List_of_organizations_designated_by_the_Southern_Poverty_Law_Center_as_hate_groups
+* https://arxiv.org/pdf/1905.02712.pdf
+* https://web.archive.org/web/20181021194007/https://dailystormer.name/a-normies-guide-to-the-Alt-Right/
+* https://www.adl.org/
+* https://en.wikipedia.org/wiki/Category:Neo-Nazi_websites
+* https://en.wikipedia.org/wiki/Category:Holocaust_denying_websites
+
+# Sources for right-wing populistic content
+* https://en.wikipedia.org/wiki/Right-wing_populism
