@@ -34,6 +34,7 @@ Feel free to create a pull request.
 * https://en.wikipedia.org/wiki/List_of_organizations_designated_by_the_Southern_Poverty_Law_Center_as_hate_groups
 * https://arxiv.org/pdf/1905.02712.pdf
 * https://web.archive.org/web/20181021194007/https://dailystormer.name/a-normies-guide-to-the-Alt-Right/
+* http://gatesofvienna.blogspot.com linklist
 * https://www.adl.org/
 * https://en.wikipedia.org/wiki/Category:Neo-Nazi_websites
 * https://en.wikipedia.org/wiki/Category:Holocaust_denying_websites
