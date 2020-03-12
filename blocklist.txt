@@ -32,6 +32,7 @@
 0.0.0.0 action.afa.net
 0.0.0.0 activate.afa.net
 0.0.0.0 adam.frc.org
+0.0.0.0 adelaideinstitute.org
 0.0.0.0 adflegal.org
 0.0.0.0 admin62b4b.davidicke.com
 0.0.0.0 admin.afa.net
@@ -55,8 +56,10 @@
 0.0.0.0 afapledge.afa.net
 0.0.0.0 afastore.afa.net
 0.0.0.0 afpstore.americanfreepress.net
+0.0.0.0 aggressivechristianity.net
 0.0.0.0 ahba2ahw.8ch.net
 0.0.0.0 aicfoundation.com
+0.0.0.0 airnet.net
 0.0.0.0 alacrity.8ch.net
 0.0.0.0 alamoministries.com
 0.0.0.0 albert.churchmilitant.com
@@ -69,9 +72,11 @@
 0.0.0.0 americanborderpatrol.com
 0.0.0.0 americanfreepress.net
 0.0.0.0 americanidentitymovement.com
+0.0.0.0 americannaziparty.com
 0.0.0.0 americanpatrol.com
 0.0.0.0 americansfortruth.com
 0.0.0.0 aml.afa.net
+0.0.0.0 amren.com
 0.0.0.0 antipathyrecords.crew38.com
 0.0.0.0 aos.aggressivechristianity.net
 0.0.0.0 apache4.rationalwiki.org
@@ -198,6 +203,7 @@
 0.0.0.0 bpp.org.uk
 0.0.0.0 br.avoiceformen.com
 0.0.0.0 breitbart.com
+0.0.0.0 breizatao.com
 0.0.0.0 brothers.saintbenedict.com
 0.0.0.0 btcpay.gab.com
 0.0.0.0 buchanan.org
@@ -221,6 +227,7 @@
 0.0.0.0 cat8.stormfront.org
 0.0.0.0 catholicfamilynews.com
 0.0.0.0 cc.resist.com
+0.0.0.0 ccv.org
 0.0.0.0 cdn-0.thefreethoughtproject.com
 0.0.0.0 cdn1.mattforney.com
 0.0.0.0 cdn-1.thefreethoughtproject.com
@@ -259,11 +266,13 @@
 0.0.0.0 chick.com
 0.0.0.0 chinese.pacificjustice.org
 0.0.0.0 christianaction.org
+0.0.0.0 christianseparatist.org
 0.0.0.0 churchmilitant.com
 0.0.0.0 chuteout.bitchute.com
 0.0.0.0 chutestaging.bitchute.com
 0.0.0.0 cis.org
 0.0.0.0 cjccan.org
+0.0.0.0 clarionproject.org
 0.0.0.0 classic.evangelismexplosion.org
 0.0.0.0 clean.liveprayer.com
 0.0.0.0 click.fairmail.fairus.org
@@ -289,6 +298,7 @@
 0.0.0.0 content.tradyouth.org
 0.0.0.0 content.us-central-1.infowars.com
 0.0.0.0 content.us-east-1.infowars.com
+0.0.0.0 conxnet.com
 0.0.0.0 core.infowars.com
 0.0.0.0 counter-currents.com
 0.0.0.0 cpanel.app.kataeb.org
@@ -367,18 +377,22 @@
 0.0.0.0 cs-web.staging.infowars.com
 0.0.0.0 cuda.infowars.com
 0.0.0.0 currency.4chan.org
+0.0.0.0 dailystormer.ai
 0.0.0.0 dailystormer.al
 0.0.0.0 dailystormer.at
 0.0.0.0 dailystormer.ca
 0.0.0.0 dailystormer.hk
 0.0.0.0 dailystormer.is
+0.0.0.0 dailystormer.ph
 0.0.0.0 dailystormer.ru
+0.0.0.0 dailystormer.ws
 0.0.0.0 dale.lc.org
 0.0.0.0 daleleonardproductions.parentsactionleague.org
 0.0.0.0 da.metapedia.org
 0.0.0.0 darla.liveprayer.com
 0.0.0.0 dashboard.8kun.top
 0.0.0.0 data.8kun.top
+0.0.0.0 davidduke.com
 0.0.0.0 davidicke.com
 0.0.0.0 db.centerforsecuritypolicy.org
 0.0.0.0 dc-172dd1fcfc6f.jdl-uk.org
@@ -388,6 +402,7 @@
 0.0.0.0 de.avoiceformen.com
 0.0.0.0 dedicated.resist.com
 0.0.0.0 deepstateblog.org
+0.0.0.0 defendthefamily.com
 0.0.0.0 de.metapedia.org
 0.0.0.0 demo.8kun.top
 0.0.0.0 der-dritte-weg.info
@@ -484,6 +499,7 @@
 0.0.0.0 es.metapedia.org
 0.0.0.0 espanol.remnantnewspaper.com
 0.0.0.0 et.metapedia.org
+0.0.0.0 euronat.org
 0.0.0.0 europa-terra-nostra.com
 0.0.0.0 europeanamericansunited.org
 0.0.0.0 europe.infowars.com
@@ -498,6 +514,7 @@
 0.0.0.0 explorersclub.evangelismexplosion.org
 0.0.0.0 fairmail.fairus.org
 0.0.0.0 fairus.org
+0.0.0.0 faithfreedom.org
 0.0.0.0 faithfulwordbaptist.org
 0.0.0.0 faithkeepers.clarionproject.org
 0.0.0.0 familyresearchinst.org
@@ -535,8 +552,10 @@
 0.0.0.0 forum.therightstuff.biz
 0.0.0.0 forum.thethreepercenters.org
 0.0.0.0 forum.volksfrontinternational.com
+0.0.0.0 forzanuova.eu
 0.0.0.0 fotogal.awb.co.za
 0.0.0.0 fraservalleysoldiersofodin.ca
+0.0.0.0 frc.org
 0.0.0.0 french.faithfreedom.org
 0.0.0.0 fr.metapedia.org
 0.0.0.0 fr.sony.kukluxklan.com
@@ -547,6 +566,7 @@
 0.0.0.0 ftp.frc.org
 0.0.0.0 ftp.web.infowars.com
 0.0.0.0 fw.davidicke.com
+0.0.0.0 gab.ai
 0.0.0.0 gab.com
 0.0.0.0 gabriel.frc.org
 0.0.0.0 gallery.nsm88.org
@@ -562,6 +582,7 @@
 0.0.0.0 go7ranuova.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.stormfront.org
 0.0.0.0 go.adflegal.org
 0.0.0.0 go.clarionproject.org
+0.0.0.0 godhatesfags.com
 0.0.0.0 go.fairus.org
 0.0.0.0 go.frc.org
 0.0.0.0 graphics.frc.org
@@ -697,6 +718,7 @@
 0.0.0.0 jdl-germany.org
 0.0.0.0 jdl.org
 0.0.0.0 jdl-uk.org
+0.0.0.0 jewwatch.com
 0.0.0.0 jihadwatch.org
 0.0.0.0 jitrnice.parentsactionleague.org
 0.0.0.0 jointoday.nsm88.org
@@ -714,6 +736,7 @@
 0.0.0.0 kids.stormfront.org
 0.0.0.0 kingidentity.com
 0.0.0.0 korean.pacificjustice.org
+0.0.0.0 kukluxklan.com
 0.0.0.0 lc.org
 0.0.0.0 leagueofthesouth.com
 0.0.0.0 learn.evangelismexplosion.org
@@ -863,12 +886,14 @@
 0.0.0.0 mediakit.breitbart.com
 0.0.0.0 mediaserver3.afa.net
 0.0.0.0 media-staging.infowars.com
+0.0.0.0 melvig.org
 0.0.0.0 membership.bloodandsoil.org
 0.0.0.0 members.jbs.org
 0.0.0.0 members.toqonline.com
 0.0.0.0 member.tradworker.org
 0.0.0.0 mentally-challenged.faithfreedom.org
 0.0.0.0 mepnorthwest1.bnp.org.uk
+0.0.0.0 metapedia.org
 0.0.0.0 mgtow.avoiceformen.com
 0.0.0.0 microsite.frc.org
 0.0.0.0 migrator-ns1.jewwatch.com
@@ -889,6 +914,7 @@
 0.0.0.0 mo.nsm88.org
 0.0.0.0 moses.frc.org
 0.0.0.0 mosques.tnp.noi.org
+0.0.0.0 mostholyfamilymonastery.com
 0.0.0.0 mover.cis.org
 0.0.0.0 ms1.liveprayer.com
 0.0.0.0 ms.liveprayer.com
@@ -1100,6 +1126,7 @@
 0.0.0.0 protectionist.net
 0.0.0.0 ps.8ch.net
 0.0.0.0 pt.metapedia.org
+0.0.0.0 publicadvocateusa.org
 0.0.0.0 pulseway.afa.net
 0.0.0.0 purge.infowars.com
 0.0.0.0 push.infowars.com
@@ -1121,7 +1148,10 @@
 0.0.0.0 rasul.noi.org
 0.0.0.0 rationalwiki.org
 0.0.0.0 rdice.net.redice.tv
+0.0.0.0 reclaimamerica.org
+0.0.0.0 redicecreations.com
 0.0.0.0 redice.tv
+0.0.0.0 redwatch.org
 0.0.0.0 reference.avoiceformen.com
 0.0.0.0 referring.buchanan.org
 0.0.0.0 rekrutacja.nop.org.pl
@@ -1138,6 +1168,8 @@
 0.0.0.0 remote.massresistance.org
 0.0.0.0 remoteuk.adflegal.org
 0.0.0.0 remoteva.adflegal.org
+0.0.0.0 renegadebroadcasting.com
+0.0.0.0 renegadetribune.com
 0.0.0.0 rense.com
 0.0.0.0 reports.4chan.org
 0.0.0.0 resist.com
@@ -1145,6 +1177,7 @@
 0.0.0.0 rest1.magento.infowars.com
 0.0.0.0 retrospective.clarionproject.org
 0.0.0.0 retrotic.mattforney.com
+0.0.0.0 returnofkings.com
 0.0.0.0 revblog.codoh.com
 0.0.0.0 riga.8kun.top
 0.0.0.0 rls1.liveprayer.com
@@ -1170,6 +1203,7 @@
 0.0.0.0 rus.creativitymovement.net
 0.0.0.0 rusjournal-org.tradworker.org
 0.0.0.0 russian.pacificjustice.org
+0.0.0.0 ruthinstitute.org
 0.0.0.0 s1.arktos.com
 0.0.0.0 s1jpvxrsuc.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.rense.com
 0.0.0.0 s2.arktos.com
@@ -1261,6 +1295,7 @@
 0.0.0.0 shop.gab.ai
 0.0.0.0 shop.gab.com
 0.0.0.0 shop.infowars.com
+0.0.0.0 siegeculture.biz
 0.0.0.0 siegeculture.bizers.org.au
 0.0.0.0 signup.ruthinstitute.org
 0.0.0.0 simon.frc.org
@@ -1340,6 +1375,7 @@
 0.0.0.0 stagingtest.infowars.com
 0.0.0.0 staging-us-west-1.infowars.com
 0.0.0.0 staging-vod-api.infowars.com
+0.0.0.0 standupamericanow.org
 0.0.0.0 staresattheworld.com
 0.0.0.0 staresattheworld.commericanfreepress.net
 0.0.0.0 static-1.bitchute.com
@@ -1416,6 +1452,7 @@
 0.0.0.0 sys.8kun.toplture.biz
 0.0.0.0 sys.8kun.topurnal.com
 0.0.0.0 sys.8kun.top.za
+0.0.0.0 takimag.com
 0.0.0.0 talk.infowars.com
 0.0.0.0 team.4chan.org
 0.0.0.0 teapartynation.com
@@ -1442,6 +1479,7 @@
 0.0.0.0 thepioneerfund.org
 0.0.0.0 thepoliticalcesspool.org
 0.0.0.0 theremembranceproject.org
+0.0.0.0 therightstuff.biz
 0.0.0.0 thesocialcontract.com
 0.0.0.0 thethreepercenters.org
 0.0.0.0 thinnerbeauty.8ch.net
@@ -1463,6 +1501,7 @@
 0.0.0.0 training.frc.org
 0.0.0.0 trends.gab.com
 0.0.0.0 trump.fairus.org
+0.0.0.0 truthinaction.org
 0.0.0.0 tucil3xcin.this_is_research.next_query.is_from_us.if_problem.please_see.http.researchscan.cs.berkeley.edu.rense.com
 0.0.0.0 tvassets.infowars.com
 0.0.0.0 tv.breitbart.com
@@ -1509,6 +1548,7 @@
 0.0.0.0 view.fairmail.fairus.org
 0.0.0.0 vigridtvedt.net
 0.0.0.0 vigrid.win
+0.0.0.0 vnnforum.com
 0.0.0.0 voat.co
 0.0.0.0 vod-api.infowars.com
 0.0.0.0 voices.avoiceformen.com
@@ -1630,6 +1670,7 @@
 0.0.0.0 wiki.faithfreedom.org
 0.0.0.0 wiki.lc.org
 0.0.0.0 wolvesofvinland.net
+0.0.0.0 worldcongress.org
 0.0.0.0 worldfriendshiptour.noi.org
 0.0.0.0 wospodcast.aggressivechristianity.net
 0.0.0.0 wp.breitbart.com
