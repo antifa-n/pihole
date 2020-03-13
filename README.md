@@ -3,7 +3,7 @@ Here you will find Pi-hole (https://pi-hole.net) blocklists for nazi, fascist, a
 
 Do you have children or manage a school or a company and want to ensure no one in your network accesses such content? Here are the blocklists for you.
 
-***In total, +3500 domains listed.***
+***In total, +4000 domains listed.***
 
 In some rare cases, sites which hosts offensive content as well as other things are included, such as 4chan, 8chan and gab.
 
@@ -38,7 +38,7 @@ Feel free to create a pull request.
 * https://www.adl.org/
 * https://en.wikipedia.org/wiki/Category:Neo-Nazi_websites
 * https://en.wikipedia.org/wiki/Category:Holocaust_denying_websites
-* Iron march
+* Iron march reviewed link lists
 
 # Sources for right-wing populistic content
 * https://en.wikipedia.org/wiki/Right-wing_populism
