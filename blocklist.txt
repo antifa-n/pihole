@@ -1552,7 +1552,6 @@
 0.0.0.0 ssl2.liveprayer.com
 0.0.0.0 ssl.liveprayer.com
 0.0.0.0 stage.chalcedon.edu
-0.0.0.0 stage.chalcedon.edu<BR>www.chalcedon.edu
 0.0.0.0 stage-docker.vdare.com
 0.0.0.0 stage.jihadwatch.org
 0.0.0.0 stage.vdare.com
