@@ -3,7 +3,7 @@ Here you will find Pi-hole (https://pi-hole.net) blocklists for nazi, fascist, a
 
 Do you have children or manage a school or a company and want to ensure no one in your network accesses such content? Here are the blocklists for you.
 
-***In total, +4000 domains listed.***
+***In total, +5000 domains listed.***
 
 In some rare cases, sites which hosts offensive content as well as other things are included, such as 4chan, 8chan and gab.
 
@@ -17,6 +17,7 @@ In some rare cases, sites which hosts offensive content as well as other things 
 4. Choose a blocklist.
 To only block nazi, fascist, alt-right, anti-LGBT, white nationalistic and supremacy content, enter in this url: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist.txt
 To block right-wing populistic content, also add this list: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt
+To block alt-tech platforms that hosts nazi, fascist, alt-right, white nationalists, anti-LGBT content, enter this url: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-alttech.txt
 5. Click Save and Update
 6. Don't forget to update gravity on a regular basis
 
@@ -42,3 +43,6 @@ Feel free to create a pull request.
 
 # Sources for right-wing populistic content
 * https://en.wikipedia.org/wiki/Right-wing_populism
+
+# Sources for alt-tech content:
+https://en.wikipedia.org/wiki/Alt-tech
