@@ -7,6 +7,9 @@ Do you have children or manage a school or a company and want to ensure no one i
 
 In some rare cases, sites which hosts offensive content as well as other things are included, such as 4chan, 8chan and gab.
 
+If you want to block all well known 
+where nazis, facists, alt-right, anti-LGBT and white nationalistic groups organizes, there is a specific alt-tech blocklist which blocks known platforms listed here: https://en.wikipedia.org/wiki/Alt-tech (but excluding, Discover, Telegram and Signal).
+
 ***Please note that regular conservative sites are not blocked***
 
 # Using the blocklists
@@ -15,9 +18,9 @@ In some rare cases, sites which hosts offensive content as well as other things 
 2. Click on Settings
 3. Click the tab Blocklists
 4. Choose a blocklist.
-To only block nazi, fascist, alt-right, anti-LGBT, white nationalistic and supremacy content, enter in this url: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist.txt
-To block right-wing populistic content, also add this list: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt
-To block alt-tech platforms that hosts nazi, fascist, alt-right, white nationalists, anti-LGBT content, enter this url: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-alttech.txt
+* To only block nazi, fascist, alt-right, anti-LGBT, white nationalistic and supremacy content, enter in this url: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist.txt
+* To block right-wing populistic content, also add this list: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt
+* To block alt-tech platforms that hosts nazi, fascist, alt-right, white nationalists, anti-LGBT content, enter this url: https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-alttech.txt
 5. Click Save and Update
 6. Don't forget to update gravity on a regular basis
 
